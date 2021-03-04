@@ -15,6 +15,7 @@
 #   Browse user installed themes in `data/themes/`
 #theme = "Mr Robot"
 theme = "Minimal"
+theme = "Rose"
 
 # Enable users to switch between day and night mode?
 day_night = false
